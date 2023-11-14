@@ -22,3 +22,4 @@ whose loss diagram is as follows:
 
 And after that, we read the test data one by one and identified their categories, then we created a csv file of the names of the photos and their categories.
 ### sample_submission.csv
+The output of the names of the test data photos along with the category obtained by the model.
